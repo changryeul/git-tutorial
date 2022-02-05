@@ -27,3 +27,5 @@ class laber( person):
  
  def mal(a, b):
     return a*b
+    
+ def add
